@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@nestjs/common": "^11.1.13",
-    "@nestjs/core": "^11.1.13",
+    "@nestjs/core": "^11.1.18",
     "@nestjs/platform-express": "^11.1.13",
     "@willsoto/nestjs-prometheus": "^6.0.2",
     "reflect-metadata": "^0.2.2",
